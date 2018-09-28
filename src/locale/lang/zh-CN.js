@@ -16,5 +16,13 @@ export default {
   directive_page: '指令',
   level_1: 'level-1',
   level_2: 'level-2',
-  level_2_1: 'level-2-1'
+  level_2_1: 'level-2-1',
+  inputKeywords: '输入关键字搜索',
+  btnSearch: '搜索',
+  btnAdvSearch: '高级搜索',
+  btnCreateFolder: '创建文件夹',
+  btnUpload: '上传',
+  btnDownload: '下载',
+  btnExport: '导出',
+  btnDelete: '删除'
 }

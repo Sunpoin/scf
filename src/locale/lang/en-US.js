@@ -16,5 +16,13 @@ export default {
   directive_page: 'Directive',
   level_1: 'level-1',
   level_2: 'level-2',
-  level_2_1: 'level-2-1'
+  level_2_1: 'level-2-1',
+  inputKeywords: 'Input keywords',
+  btnSearch: 'Search',
+  btnAdvSearch: 'Advanced',
+  btnCreateFolder: 'Create folder',
+  btnUpload: 'Upload',
+  btnDownload: 'Download',
+  btnExport: 'Export',
+  btnDelete: 'Delete'
 }

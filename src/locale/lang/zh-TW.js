@@ -16,5 +16,6 @@ export default {
   directive_page: '指令',
   level_1: 'level-1',
   level_2: 'level-2',
-  level_2_1: 'level-2-1'
+  level_2_1: 'level-2-1',
+  inputKeywords: '输入关键字搜索'
 }
